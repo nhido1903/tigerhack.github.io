@@ -18,6 +18,9 @@ function NavBar() {
     <Nav.Item className = 'tab4'>
         <Nav.Link style={{color: 'black'}} href="/report">Report</Nav.Link>
     </Nav.Item>
+    <Nav.Item className = 'tab4'>
+        <Nav.Link style={{color: 'black'}} href="/join">Join</Nav.Link>
+    </Nav.Item>
   </Nav>
   );
 }

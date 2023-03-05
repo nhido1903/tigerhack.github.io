@@ -3,16 +3,15 @@ import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button';
-import '../style/Report.css';
+import '../style/join.css';
 
 
-function ReportForm(){
+function join(){
     return (
         
         <div className='report'>
 
-            <h1>Report your cold email result</h1>
-            <p>Sharing is caring. We hope all users can contribute to build a strong community!</p>
+            <h1>You can sign up as the president of your organization or individually</h1>
             <br/>
             <br/>
             <br/>
@@ -23,7 +22,7 @@ function ReportForm(){
             <Form.Group as={Col} controlId="name">
             <Form.Label>Name</Form.Label> 
             <Col sm="12">
-            <Form.Control type="email" placeholder="Name" />
+            <Form.Control type="name" placeholder="Name" />
             </Col>
             </Form.Group>
 
@@ -31,6 +30,13 @@ function ReportForm(){
             <Form.Label>UserID</Form.Label>
             <Col sm="10">
             <Form.Control type="userID" placeholder="UserID" />
+            </Col>
+            </Form.Group>
+
+            <Form.Group as={Col} controlId="password">
+            <Form.Label>PassWord</Form.Label>
+            <Col sm="10">
+            <Form.Control type="password" placeholder="PassWord" />
             </Col>
             </Form.Group>
 
@@ -49,74 +55,26 @@ function ReportForm(){
 
         <Row className="mb-2">
             <Form.Group as={Col} controlId="name">
-            <Form.Label>Recruiter's company</Form.Label>
+            <Form.Label>Sign up as</Form.Label>
                 <Col sm="15">
                 <Form.Select>
-                    <option>Select Companies</option>
-                    <option value="1">Amazon</option>
-                    <option value="2">Apple</option>
-                    <option value="3">Google</option>
-                    <option value="4">MasterCard</option>
-                    <option value="5">Unity</option>
-                    <option value="6">DePauw</option>
+                    <option>Select option</option>
+                    <option value="1">Organization</option>
+                    <option value="2">Individual</option>
                     </Form.Select>
                 </Col>
             </Form.Group>
                 <Form.Group as={Col} controlId="recruiteremail">
-                    <Form.Label>Recruiter's email</Form.Label>
+                    <Form.Label>Email</Form.Label>
                     <Col sm="20">
-                    <Form.Control type="email" placeholder="Recruiter's email" />
+                    <Form.Control type="email" placeholder="Email" />
                     </Col>
                 </Form.Group>
             </Row>
 
-            <Row className="mb-3">
-            <Form.Group as={Col} controlId="respondse">
-            <Form.Label column sm="20">
-                Email was responded?
-                </Form.Label>
-                <Col sm="20">
-                <Form.Select>
-                    <option>Select an option?</option>
-                    <option value="1">Yes</option>
-                    <option value="2">No</option>
-                        </Form.Select>
-                </Col>
-            </Form.Group>
-
-            <Form.Group as={Col} controlId="respondse">
-                <Form.Label column sm="20">
-                    Scheduled an interview?
-                    </Form.Label>
-                    <Col sm="20">
-                    <Form.Select>
-                    <option>Select an option?</option>
-                    <option value="1">Yes</option>
-                    <option value="2">No</option>
-                        </Form.Select>
-                </Col>
-            </Form.Group>
-
-            <Form.Group as={Col} controlId="response">
-                <Form.Label column sm="20">
-                    What was your wait time?
-                    </Form.Label>
-                    <Col sm="20">
-                    <Form.Select>
-                    <option>Select an option</option>
-                    <option value="1">Within 1 week</option>
-                    <option value="2">Within 2 weeks</option>
-                    <option value="2">Within 1 month</option>
-                    <option value="2">Within 6 weeks</option>
-                    <option value="2">More than 2 months - never</option>
-                    </Form.Select>
-                </Col>
-            </Form.Group>
-            </Row>
-
             <Row className="mb-4">
             <Button style={{color:'black'}} variant="primary" type="submit" >
-                Report
+                Apply
             </Button>
             </Row>
 
@@ -125,7 +83,7 @@ function ReportForm(){
     )
 }
 
-export default ReportForm;
+export default join;
 
 
 

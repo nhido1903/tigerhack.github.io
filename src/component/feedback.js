@@ -1,6 +1,7 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import '../style/feedback.css'
+import ReactDOM from 'react-dom';
 
 function feedback() {
   return (
