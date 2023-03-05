@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+**Getting Started with Create React App**
 ⚙️This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ⚙️Runs the app in the development mode.\
 ⚙️Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -36,6 +36,20 @@ Are you tired of waiting for weeks to hear back from companies after applying fo
 
 ⚔️Recruiters switch companies a lot, so a portion of the emails you archive might not always be accessible: Students need to report the result of their cold email after 4 weeks of getting access to each recruiter's email. 
 
+**How do we help women?**
+
+🔑The website is built by the president and copresident of women in computer science to support women.
+
+🔑The website only allows verified users who are members of organizations that focus on women or individuals who apply with their school or company email.
+
+🔑Verification of information and gender is required for individuals who apply.
+
+🔑Every month, organizations and individuals who send emails need to share the results to update the system and increase their chances of getting to the interview stage.
+
+🔑The website allows any organization or individual to contribute new email and recruiter's information to the database.
+
+🔑This helps grow the resource and support more women.
+
 
 💻 **Features**
 
@@ -55,6 +69,5 @@ Are you tired of waiting for weeks to hear back from companies after applying fo
 ➡️ Develop mentorshop between women.
 
 ➡️ Recruiter spnsorship to look for targeted school/student.
-
 
 
