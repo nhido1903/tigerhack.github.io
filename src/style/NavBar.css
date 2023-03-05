@@ -1,5 +1,5 @@
 .NavBar {
-  background-color: #ffde59;
+  background-color: #dc6874;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 20px;
   justify-content:space-around;
@@ -25,6 +25,11 @@
   background-color: #a3c7d2;
   color: #ffffff;
 }
+
+.NavBar .nav-item:nth-child(5) .nav-link {
+  background-color: #a3c7d2;
+  color: #ffffff;
+} 
 
 .NavBar .nav-link {
   font-weight: 600;

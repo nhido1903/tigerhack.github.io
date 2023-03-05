@@ -1,7 +1,7 @@
 .card{ 
     display: flex;
     align-items: center;
-    background-color: #fdf7e0;
+    background-color: #fff2ee;
 }
 .card1, .card2, .card3, .card4{
     padding-top: 25px;
@@ -23,7 +23,7 @@
 }
 
 .container{
-    background-color: #00c5b6;
+    background-color: #fff2ee;
     padding-bottom: 100px;;
     padding-top: 70px;
 
