@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Righteous&family=Rubik+Iso&family=Satisfy&display=swap');
+
+.homepage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    padding: 20px;
+    background-color: #fdf7e0;
+    padding-bottom: 400px;
+    padding-top: 350px;
+}
+
+h1{
+    font-size: 35px;
+    margin-bottom: 10px;
+    font-family: 'Righteous', cursive;
+    color: #00c5b6;
+}
+
+
+p{ 
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: black;
+}
+
+.get-started-button {
+    background-color: #ff5757;
+    color: white;
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+  
+.get-started-button:hover {
+    background-color: #ffde59;
+}
+

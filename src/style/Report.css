@@ -1,0 +1,28 @@
+.mb-3{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 75px;
+    padding-right: 75px;
+    text-align: left;
+}
+
+.mb-4{ 
+    padding-top: 90px;
+    padding-bottom: 50px;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+}
+.report{ 
+    padding-top: 100px;
+    padding-bottom: 150px;
+    background-color: #fdf7e0;
+}
+
+.primary{ 
+    background-color: black;
+}
+
+
+  
+  
+  
