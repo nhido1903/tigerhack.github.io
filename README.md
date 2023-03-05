@@ -37,6 +37,17 @@ Are you tired of waiting for weeks to hear back from companies after applying fo
 ⚔️Recruiters switch companies a lot, so a portion of the emails you archive might not always be accessible: Students need to report the result of their cold email after 4 weeks of getting access to each recruiter's email. 
 
 
+💻 **Features**
+
+➡️ Application for individual and organization.
+
+➡️ Recruiters database with emails
+
+➡️ Report Form
+
+➡️ Contribute to database 
+
+
 
 
 
