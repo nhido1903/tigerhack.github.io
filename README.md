@@ -1,70 +1,30 @@
 # Getting Started with Create React App
+⚙️This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+⚙️Runs the app in the development mode.\
+⚙️Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Introduce: 
+Are you tired of waiting for weeks to hear back from companies after applying for a job or internship? Do you want to stand out from the pool of applicants and increase your chances of securing your dream job? Look no further than Networking Champion.
 
-## Available Scripts
+#Problem: 
+📌The problem that I am addressing is the difficulties faced by college students when they're looking for internships and new grad jobs, or even professionals who want to switch companies. 
+📌Career Sidekick reported that applicants often wait for up to 2 months to hear back from their applications, with the majority of applicants never receiving any response (around 70%-90%according to Harvard business review). 
+📌The average application-to-interview ratio is low, with only 10-30% of applications resulting in an interview. Even after interviews, CNBC reported that 75% of candidates experience "ghosting" by potential employers.
 
-In the project directory, you can run:
+=> This problem has significant negative impacts, not only causing financial hardship but also creating stress that can negatively affect mental health. It can also lead to slower economic development in various fields. The situation has been getting worse because of the Covid-19 pandemic. Therefore, addressing this issue is crucial, and it is important to find effective solutions to help people find job opportunities more easily.
 
-### `npm start`
+#Solution: 
+💡To make your application stand out and catch the attention of the company, it's crucial to get to the interview round. One effective way to do this is through cold emailing.
+💡A cold email is an introductory email sent to usually a recruiter, who can schedule an interview, to show your interest and skill.
+💡Cold emails are incredibly useful because they show initiative and help you stand out from the application pool, offer direct communication to schedule an interview ASAP, build strong connections with recruiters and companies, and open doors to unadvertised opportunities. In fact, many successful job seekers have reported high response rates and interview scheduling rates from cold emails.
+💡Now, you may be wondering, does cold email really work? Well, CNBC’s research has shown that targeted cold emails can receive an average response rate of 15-25%. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#Implement and concern: 
+⚔️Firstly, we will ask for consent before sharing any information in the database.
+⚔️Secondly, we will limit access permission to 3-5 emails per month to prevent spamming. To make sure that one person only has one account, they are required to use school or company email to sign up. 
+⚔️We will require students to report the result of their cold email after 1 month, before they can renew the plan to get to see 5 new emails.  They need to provide screenshot confirmation to demonstrate the validity 
+⚔️Recruiters switch companies a lot, so a portion of the emails you archive might not always be accessible: Students need to report the result of their cold email after 4 weeks of getting access to each recruiter's email. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
