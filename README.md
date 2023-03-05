@@ -1,12 +1,12 @@
-#**Getting Started with Create React App**
+**Getting Started with Create React App**
 ⚙️This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ⚙️Runs the app in the development mode.\
 ⚙️Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#**Introduce:**
+**Introduce:**
 Are you tired of waiting for weeks to hear back from companies after applying for a job or internship? Do you want to stand out from the pool of applicants and increase your chances of securing your dream job? Look no further than Networking Champion.
 
-#**Problem:**
+**Problem:**
 
 📌The problem that I am addressing is the difficulties faced by college students when they're looking for internships and new grad jobs, or even professionals who want to switch companies. 
 
