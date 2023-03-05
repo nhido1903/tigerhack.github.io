@@ -48,6 +48,13 @@ Are you tired of waiting for weeks to hear back from companies after applying fo
 ➡️ Contribute to database 
 
 
+📲 **What's next for Networking Champion 📲**
+
+➡️ I will try to add more email to database.
+
+➡️ Develop mentorshop between women.
+
+➡️ Recruiter spnsorship to look for targeted school/student.
 
 
 
