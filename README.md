@@ -38,8 +38,6 @@ Are you tired of waiting for weeks to hear back from companies after applying fo
 
 **How do we help women?**
 
-🔑The website is built by the president and copresident of women in computer science to support women.
-
 🔑The website only allows verified users who are members of organizations that focus on women or individuals who apply with their school or company email.
 
 🔑Verification of information and gender is required for individuals who apply.
