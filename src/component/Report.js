@@ -12,7 +12,6 @@ function ReportForm(){
         <div className='report'>
 
             <h1>Report your cold email result</h1>
-            <p>Sharing is caring. We hope all users can contribute to build a strong community!</p>
             <br/>
             <br/>
             <br/>
